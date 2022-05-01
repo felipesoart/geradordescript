@@ -1,0 +1,28 @@
+C:\Users\soart\source\repos\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\bin\Debug\GeradorDeScriptDecodificar.exe.config
+C:\Users\soart\source\repos\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\bin\Debug\GeradorDeScriptDecodificar.exe
+C:\Users\soart\source\repos\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\bin\Debug\GeradorDeScriptDecodificar.pdb
+C:\Users\soart\source\repos\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.csprojAssemblyReference.cache
+C:\Users\soart\source\repos\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.Inicio.resources
+C:\Users\soart\source\repos\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.Properties.Resources.resources
+C:\Users\soart\source\repos\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.csproj.GenerateResource.cache
+C:\Users\soart\source\repos\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.csproj.CoreCompileInputs.cache
+C:\Users\soart\source\repos\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.exe
+C:\Users\soart\source\repos\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\bin\Debug\GeradorDeScriptDecodificar.exe.config
+C:\Users\felip\OneDrive\Área de Trabalho\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\bin\Debug\GeradorDeScriptDecodificar.exe
+C:\Users\felip\OneDrive\Área de Trabalho\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\bin\Debug\GeradorDeScriptDecodificar.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.Inicio.resources
+C:\Users\felip\OneDrive\Área de Trabalho\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.Properties.Resources.resources
+C:\Users\felip\OneDrive\Área de Trabalho\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.csproj.GenerateResource.cache
+C:\Users\felip\OneDrive\Área de Trabalho\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.exe
+C:\Users\felip\OneDrive\Área de Trabalho\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.pdb
+C:\Users\admin\Desktop\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\bin\Debug\GeradorDeScriptDecodificar.exe.config
+C:\Users\admin\Desktop\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\bin\Debug\GeradorDeScriptDecodificar.exe
+C:\Users\admin\Desktop\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\bin\Debug\GeradorDeScriptDecodificar.pdb
+C:\Users\admin\Desktop\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.Inicio.resources
+C:\Users\admin\Desktop\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.Properties.Resources.resources
+C:\Users\admin\Desktop\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.exe
+C:\Users\admin\Desktop\GeradorDeScriptDecodificar\GeradorDeScriptDecodificar\obj\Debug\GeradorDeScriptDecodificar.pdb
